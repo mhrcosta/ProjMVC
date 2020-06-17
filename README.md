@@ -1,1 +1,2 @@
 # ProjMVC
+\o/
